@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AppCilindro"
+rootProject.name = "AppCamara"
 include(":app")
  
